@@ -1,0 +1,6 @@
+{
+  "name": "token-required",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
